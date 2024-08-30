@@ -1,0 +1,342 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.govind{
+    background-color: #0f1111;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-logo{
+    height: 43px;
+    width: 122px;
+    background-image: url("amazon.logo.png");
+    background-size: cover;
+    margin-top: 8px;
+
+}
+.add-icon{
+    display: flex;
+    color: white;
+}
+.text{
+    color: #cccccc;
+    padding-left: 20px;
+    padding-top: 8px;
+    font-weight: 200;
+}
+.text1{
+    padding-left: 3px;
+    font-weight: 800;
+}
+i{
+    padding-left: 5px;
+}
+.searchbox{
+    height: 40px;
+    width: 600px;
+    margin-top: 8px;
+    border-left-style: none;
+    border-right-style: none;
+}
+.search{
+    display: flex;
+}
+.dropdown{
+    height: 43px;
+    margin-top: 9px;
+    border-right-style: none;
+    background-color: #d6d6d6;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-right-style: none;
+    
+}
+.searchicon{
+    color: white;
+    background-color: rgba(255, 255, 0, 0.836);
+    height: 41px;
+    width: 40px;
+    margin-top: 10px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.searchicon1{
+    padding-top: 11px;
+    border-left-style: none;
+    border-top-right-radius: 5px;
+    color: black;
+    padding-left: 7px;
+    height: 100px;
+}
+.account{
+    color: white;
+}
+.account1{
+    margin-top: 13px;
+}
+.account2{
+    color: white;
+}
+.account3{
+    display: flex;
+}
+.dropdownlist{
+    color: white;
+    background-color: #0f1111;
+    border-style: none;
+    border-top-style: none;
+}
+.govind4{
+    color: #cccccc;
+}
+.accountinformation{
+    height: 300px;
+    width: 230px;
+    background-color: #cccccc;
+    margin: right 200px;;
+    margin-top: 10px;
+}
+.orderdiv{
+    margin-top: 13px;
+}
+.return{
+    color: #cccccc;
+}
+.order{
+    color: white;
+    font-weight: bold;
+}
+.cartdiv{
+    display: flex;
+    margin-top: 20px;
+}
+.carticon{
+    color: white;
+}
+.cart{
+    color: white;
+}
+.middlenavbar{
+    height: 40px;
+    background-color: #0f1111c7;
+    display: flex;
+}
+.listdiv{
+    display: flex;
+    padding-top: 11px;
+}
+.listarrow{
+    color: white;
+    padding-left: 10px;
+}
+.list{
+    color: white;
+    padding-left: 5px;
+}
+.today{
+    color: white;
+    padding-top: 11px;
+    padding-left: 20px;
+}
+.customer{
+    color: white;
+    padding-top: 11px;
+    padding-left: 20px;
+}
+.registry{
+    color: white;
+    padding-top: 11px;
+    padding-left: 20px;
+}
+.gift{
+    color: white;
+    padding-top: 11px;
+    padding-left: 20px;
+}
+.sell{
+    color: white;
+    padding-top: 11px;
+    padding-left: 20px;
+}
+.divimg{
+    height: 350px;
+    display: flex;
+    align-items: flex-end;
+    background-image: url("amazon1.jpg");
+    background-size: cover;
+    padding-bottom: 30px;
+}
+.textdiv{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin-left: 35px;
+    height: 40px;
+    width: 1280px;
+}
+.textpara{
+    color: #0f1111;
+    align-content: center;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: none;
+    color: red;
+}
+.link{
+    text-decoration: none;
+}
+.maindiv1{
+    background-color: aqua;
+    height: 2160px;
+}
+.maindiv2{
+    background-color: #cccccc;
+    height: 360px;
+    display: flex;
+}
+.div1{
+    background-color: white;
+    height: 350px;
+    width: 400px;
+}
+.divflex1{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.divflex2{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.h1text{
+    margin-left: 20px;
+}
+.h5see{
+    margin-left: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #007185;
+}
+.h5see:hover{
+    color: red;
+    text-decoration: none;
+}
+.h5text1{
+    text-decoration: none;
+    color: #0f1111;
+}
+
+.color1{
+    height: 100px;
+    width: 160px;
+    background-image: url("Headse.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+a{
+    text-decoration: none;
+    color: #0f1111;
+}
+.color2{
+    height: 100px;
+    width: 160px;
+    background-image: url("Keyboard.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.color3{
+    height: 100px;
+    width: 160px;
+    background-image: url("Mouse.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.color4{
+    height: 100px;
+    width: 160px;
+    background-image: url("Chair.jpg");
+    background-size: cover;
+}
+.div2{
+    background-color: antiquewhite;
+    height: 350px;
+    width: 400px;
+}
+.div3{
+    background-color: beige;
+    height: 350px;
+    width: 400px;
+}
+.div4{
+    background-color: white;
+    height: 350px;
+    width: 400px;
+}
+.elecdiv{
+    height: 250px;
+    width: 312px;
+    background-color: #cccccc;
+    background-image: url("Desktop.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 5px;
+}
+.backdiv{
+    background-color: #182222;
+    height: 50px;
+    display: flex;align-items: center;
+    justify-content: center;
+    color: white;
+}
+.backdiv:hover{
+    background-color: #232F3E;;
+}
+.backtext{
+    color: white;
+}
+.footerdiv{
+    height: 320px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    color: white;
+    font-weight: bolder;
+}
+.footerdiv1{
+    background-color: #232F3E;
+    height: 500px;
+
+}
+h4{
+    color: white;
+    font-size: medium;
+}
+.footdiv{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+.footimaglogo{
+    background-image: url("amazon.logo.png");
+    background-size: cover;
+    height: 50px;
+    width: 150px;
+    background-color: #232F3E;
+    margin-top: 46px;
+    
+}
+.dropdiv{
+    margin-top: 55px;
+    margin-left: 20px;
+}
+.drop1{
+    background-color: #232F3E;
+    color: white;
+    border-style: none;
+}
